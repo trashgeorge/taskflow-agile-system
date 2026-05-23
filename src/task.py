@@ -6,7 +6,8 @@ class Task:
         self.descricao = descricao
         self.prioridade = prioridade
         self.status = "Pendente"
-
+        
+# Método responsável por retornar resumo da tarefa
     def resumo(self):
         return f"{self.titulo} - {self.prioridade}"
 
