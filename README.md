@@ -81,3 +81,9 @@ O sistema utiliza testes automatizados para garantir estabilidade.
 ## Integração Contínua
 
 O GitHub Actions executa testes automaticamente a cada push realizado.
+
+## Funcionalidades Futuras
+
+- Sistema de login
+- Dashboard administrativo
+- Banco de dados integrado
