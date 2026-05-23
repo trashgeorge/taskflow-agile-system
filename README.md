@@ -73,3 +73,11 @@ Projeto desenvolvido para aplicação prática dos conceitos de Engenharia de So
 - Python
 - Pytest
 - GitHub Actions
+
+## Controle de Qualidade
+
+O sistema utiliza testes automatizados para garantir estabilidade.
+
+## Integração Contínua
+
+O GitHub Actions executa testes automaticamente a cada push realizado.
