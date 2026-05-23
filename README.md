@@ -21,3 +21,12 @@ Sistema de gerenciamento de tarefas desenvolvido utilizando conceitos de Engenha
 ```bash
 pip install -r requirements.txt
 python src/app.py
+
+## Objetivo do projeto
+
+Auxiliar equipes ágeis no gerenciamento de tarefas.
+
+## Metodologia Ágil
+
+O projeto utiliza Kanban e práticas inspiradas em Scrum.
+test: melhoria na documentação dos testes
