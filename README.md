@@ -87,3 +87,13 @@ O GitHub Actions executa testes automaticamente a cada push realizado.
 - Sistema de login
 - Dashboard administrativo
 - Banco de dados integrado
+
+## Repositório Público
+
+O projeto foi hospedado publicamente no GitHub para facilitar versionamento e colaboração.
+
+## Benefícios do Sistema
+
+- Melhor organização de tarefas
+- Maior controle do fluxo de trabalho
+- Facilidade de acompanhamento das atividades
