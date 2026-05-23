@@ -1,3 +1,5 @@
+# Aplicação principal do sistema TaskFlow
+
 from task import Task
 
 nova_tarefa = Task(
@@ -7,3 +9,7 @@ nova_tarefa = Task(
 )
 
 print(nova_tarefa.resumo())
+
+# Inicialização do sistema
+
+# Sistema principal
