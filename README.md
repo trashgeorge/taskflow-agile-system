@@ -67,3 +67,9 @@ Projeto desenvolvido para fins acadêmicos na disciplina de Engenharia de Softwa
 ## Objetivo Acadêmico
 
 Projeto desenvolvido para aplicação prática dos conceitos de Engenharia de Software.
+
+## Tecnologias
+
+- Python
+- Pytest
+- GitHub Actions
